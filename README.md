@@ -1,5 +1,7 @@
 # SupportRAG Agent · Ollama
 
+**Autora: [Yasmina Sosa](https://github.com/yassmyss)**
+
 **Asistencia al diagnóstico de incidencias mediante IA local y documentación técnica.**
 
 Agente local de soporte técnico construido con Python, LangChain y LangGraph. Consulta una base de conocimiento, selecciona herramientas para investigar una incidencia y devuelve una respuesta en español con fuentes, un registro de herramientas utilizadas y, cuando corresponde, un borrador de escalado a N2.
